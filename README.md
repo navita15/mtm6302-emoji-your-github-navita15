@@ -10,6 +10,8 @@ now we will be doing script.js file
 output:
 ![Screenshot (51)](https://github.com/navita15/mtm6302-emoji-your-github-navita15/assets/133902865/78edaed5-75a4-4e7b-9b6b-8c405119063f)
 Now to push the files back to the repo. command 7 : git add . command 8: git commit -m "Completes the assignment" command 9: git push origin main check your github now.(It should have all the files).
+![Screenshot (56)](https://github.com/navita15/mtm6302-emoji-your-github-navita15/assets/133902865/f83a0dd3-250c-4e5c-a554-ac3d8f3dd8ff)
+
 
 
 
